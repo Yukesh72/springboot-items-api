@@ -18,6 +18,9 @@ The application uses in-memory storage (ArrayList) and demonstrates basic CRUD o
 ##  API Endpoints
 
 
+Live Demo:
+https://springboot-items-api.onrender.com
+
 ### To Get Item
 **GET** `/items/getitems/{id}`
 -Example - /items/getitems/1
@@ -33,5 +36,4 @@ Request Body:
   "description": "Dell Inspiron"
 }
 
-Live Demo:
-https://springboot-items-api.onrender.com
+
