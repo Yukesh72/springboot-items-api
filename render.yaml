@@ -1,9 +1,4 @@
-services:
-  - type: web
-    name: springboot-items-api
-    plan: free
-    buildCommand: chmod +x mvnw && ./mvnw clean package
-    startCommand: java -jar target/*.jar
+
 
 
 
